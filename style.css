@@ -1,0 +1,26 @@
+body{
+    background-color: purple;
+    color: blanchedalmond;
+}
+.motivation-img{
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
+.container{
+    text-align: center;
+    
+    
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-transform: capitalize;
+    
+}
+p{
+    font-size: 2rem;
+}
+h1{
+    font-size: 3rem;
+}
